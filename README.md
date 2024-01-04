@@ -2,16 +2,18 @@
 
 
 Curriculum
-Short Specializations
-Average: 180.11%
 0x00. Pascal's Triangle
+
 Algorithm
+
 Python
+
  By: Alexa Orrico, Software Engineer at Holberton School
  Weight: 1
  Project will start Jan 2, 2024 6:00 AM, must end by Jan 5, 2024 6:00 AM
  Checker was released at Jan 3, 2024 12:00 AM
  An auto review will be launched at the deadline
+ 
 Tasks
 0. Pascal's Triangle
 mandatory
@@ -19,6 +21,7 @@ Create a function def pascal_triangle(n): that returns a list of lists of intege
 
 Returns an empty list if n <= 0
 You can assume n will be always an integer
+
 guillaume@ubuntu:~/0x00$ cat 0-main.py
 #!/usr/bin/python3
 """
@@ -52,6 +55,3 @@ Directory: 0x00-pascal_triangle
 File: 0-pascal_triangle.py
 
 Copyright © 2024 ALX, All rights reserved.
-
-
-w
